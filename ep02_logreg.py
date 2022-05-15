@@ -1,3 +1,4 @@
+#Credit: EP02-MAC0460_Prof Nina S. T. Hirata
 
 import numpy as np
 
